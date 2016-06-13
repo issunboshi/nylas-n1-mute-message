@@ -1,0 +1,16 @@
+# Miscellaneous
+*.esproj
+*.DS_Store
+*.orig
+
+*.psd
+*.zip
+
+*.sublime-project
+*.sublime-workspace
+
+prototype/.atomignore
+.atomignore
+
+npm-debug.log
+node_modules
